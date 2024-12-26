@@ -1,4 +1,4 @@
 <div align="center">
-  <h1>Selamat Datang</h1>
-  <p>Ini adalah deskripsi repositori saya.</p>
+  <h1>Ngoding santai aja dlu</h1>
+  <p>Nanti juga nyaman🙏.</p>
 </div>
