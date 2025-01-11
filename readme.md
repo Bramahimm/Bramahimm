@@ -4,5 +4,5 @@
     ngerokok
   </h1>
   <p>nanti juga nyaman🙏</p>
-  <img src = "https://img.pikbest.com/origin/10/11/63/17JpIkbEsTfaS.png!bwr800" alt="Gambar GIF" height = "150" width = "200"/>  
+  <img src = "gambar.png" alt="Gambar" height = "200" width = "200"/>  
 </div>
