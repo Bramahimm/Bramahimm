@@ -2,7 +2,7 @@
   <h1>
   Here is a picture🙏
   </h1>
-  <img src = "gambar2.png" alt="Gambar" height = "200" width = "200"/>
+  <img src = "gambar3.png" alt="Gambar" height = "200" width = "200"/>
 </div>
 <div>
   <h2>Stay in touch😜🤙</h2>
