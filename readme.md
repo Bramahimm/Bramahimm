@@ -7,6 +7,6 @@
 <div>
   <h2>Lets stay connected</h2>
   <a href="https://instagram.com/bramahimm" target="_blank">
-  <img src = "instagramIcon" alt="Gambar" height = "50" width = "50"/>
+  <img src = "instagramIcon.jpg" alt="Gambar" height = "50" width = "50"/>
   </a>
 </div>
