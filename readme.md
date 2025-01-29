@@ -6,7 +6,7 @@
 </div>
 <div>
   <h2>Lets stay connected</h2>
-  <a href="https://instagram.com/bramahimm" target="_blank">
+  <a href="https://instagram.com/bramahimm">
   <img src = "instagramIcon2.jpg" alt="Gambar" height = "50" width = "50"/>
   </a>
   <a href="https://linkedin.com/in/bramahimsa28"> 
