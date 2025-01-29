@@ -11,8 +11,6 @@
     <img src = "instagramIcon2.jpg" alt="Gambar" height = "50" width = "50"/>
   </a>
   
-  <br><br> 
-  
   <a href="https://linkedin.com/in/bramahimsa28"> 
     <img src = "inIcon2.jpg" alt="Gambar" height = "50" width = "50"/>
   </a>
