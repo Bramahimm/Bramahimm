@@ -5,7 +5,7 @@
   <img src = "gambar3.png" alt="Gambar" height = "200" width = "200"/>
 </div>
 
-<div style="gap: 10px;">
+<div style="gap: 30px;">
   <h2>Stay in touch😜🤙</h2>
   <a href="https://instagram.com/bramahimm">
     <img src = "instagramIcon2.jpg" alt="Gambar" height = "50" width = "50"/>
