@@ -1,78 +1,78 @@
 <div align="center">
-  <h1>
-  Here is a picture🙏
-  </h1>
-  <img src = "gambar3.png" alt="Gambar" height = "200" width = "200"/>
+  <img src="gambar3.png" alt="Gambar Profil" height="180"/>
+  <h2>🧑‍💻 Vrim — Fullstack Developer & System Explorer</h2>
 </div>
 
+---
 
-## 🚁 Tech Stack
+## 🚀 Tech Stack
 
-###  Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-</p>
+### 🖥️ Frontend
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/astro/black" height="40"/><br/>Astro</td>
+    <td><img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/><br/>HTML5</td>
+    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/><br/>JavaScript</td>
+    <td><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/><br/>TypeScript</td>
+    <td><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40"/><br/>TailwindCSS</td>
+    <td><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/><br/>Bootstrap</td>
+  </tr>
+</table>
 
-### ❄️ Backstage
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-</p>
+### 🧠 Backend / Fullstack
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/><br/>React</td>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40"/><br/>Next.js</td>
+    <td><img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40"/><br/>NestJS</td>
+    <td><img src="https://cdn.simpleicons.org/node.js/339933" height="40"/><br/>Node.js</td>
+    <td><img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/><br/>Golang</td>
+    <td><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/>Python</td>
+    <td><img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40"/><br/>Spring Boot</td>
+    <td><img src="https://cdn.simpleicons.org/java/ED8B00" height="40"/><br/>Java</td>
+  </tr>
+</table>
 
+---
 
-## 🔧 System & Collaboration Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
+## 🛠️ Dev & Collaboration
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/git/F05032" height="40"/><br/>Git</td>
+    <td><img src="https://cdn.simpleicons.org/github/181717" height="40"/><br/>GitHub</td>
+    <td><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40"/><br/>VS Code</td>
+    <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/><br/>Docker</td>
+    <td><img src="https://cdn.simpleicons.org/linux/FCC624" height="40"/><br/>Linux</td>
+  </tr>
+</table>
 
+---
 
+## 🧭 Environments
+- ⚡ Dual Boot System
+- 🔐 Custom Backup Strategies
+- 🧪 Containerized Experiments via Docker
 
-## 🖥️ Dev Environment
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dual%20Boot-0088CC?style=flat&logo=tux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backup%20Strategy-ff9900?style=flat" />
-</p>
-
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&theme=onedark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=bramahimm&theme=onedark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=onedark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bramahimm&theme=tokyonight&ring=DD2727&fire=CF6E0A" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=tokyonight" />
-</p>
+## 🌐 Find Me Online
 
-
-
-<div>
-  <h2>Stay in touch😜🤙</h2>
-  <a href="https://instagram.com/bramahimm">
-    <img src = "instagramIcon2.jpg" alt="Gambar" height = "50" width = "50"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/bramahimsa28"> 
-    <img src = "inIcon2.jpg" alt="Gambar" height = "50" width = "50"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td><a href="mailto:vrim.dev@proton.me"><img src="https://cdn.simpleicons.org/gmail/D14836" height="32"/></a></td>
+    <td><a href="https://linkedin.com/in/bramahimsa28"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32"/></a></td>
+    <td><a href="https://instagram.com/bramahimm"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="32"/></a></td>
+  </tr>
+</table>
