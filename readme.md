@@ -49,9 +49,20 @@
 ---
 
 ## 🧭 Environments
-- ⚡ Dual Boot System
-- 🔐 Custom Backup Strategies
-- 🧪 Containerized Experiments via Docker
+
+- ⚡ Dual Boot System  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/48px-Tux.svg.png" height="24"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2021.svg/48px-Windows_logo_-_2021.svg.png" height="24"/>  
+  <sub>Running Linux & Windows side-by-side for flexibility</sub>
+
+- 🔐 Custom Backup Strategies  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Backup_icon.svg/48px-Backup_icon.svg.png" height="24"/>  
+  <sub>Using 3-2-1 strategy with external drives & cloud sync</sub>
+
+- 🧪 Containerized Experiments via Docker  
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="24"/>  
+  <sub>Isolated dev environments for testing and deployment</sub>
+
 
 ---
 
