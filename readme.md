@@ -16,7 +16,6 @@
     <td><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/><br/>TypeScript</td>
     <td><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40"/><br/>TailwindCSS</td>
     <td><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/><br/>Bootstrap</td>
-    <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/><br/>Laravel</td>
   </tr>
 </table>
 
@@ -32,6 +31,7 @@
     <td><img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/><br/>Golang</td>
     <td><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/>Python</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" /><br/>Java</td>
+    <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/><br/>Laravel</td>
   </tr>
 </table>
 
