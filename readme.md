@@ -1,6 +1,6 @@
 <div align="center">
   <img src="gambar3.png" alt="Gambar Profil" height="180"/>
-  <h2>🧑‍💻 Vrim — Fullstack Developer & System Explorer</h2>
+  <h2>🧑‍💻 Bram wannabe — Fullstack Developer & System Explorer</h2>
 </div>
 
 ---
@@ -29,7 +29,7 @@
     <td><img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/><br/>Golang</td>
     <td><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/>Python</td>
     <td><img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40"/><br/>Spring Boot</td>
-    <td><img src="https://cdn.simpleicons.org/java/ED8B00" height="40"/><br/>Java</td>
+    <td><img src="https://cdn.simpleicons.org/java" height="40"/><br/>Java<br/>Java</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   <tr>
     <td><img src="https://cdn.simpleicons.org/git/F05032" height="40"/><br/>Git</td>
     <td><img src="https://cdn.simpleicons.org/github/white" height="40"/><br/>GitHub</td>
-    <td><img src="https://cdn.simpleicons.org/visualstudiocode/white" height="40"/><br/>VS Code</td>
+    <td><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40"/><br/>VS Code</td>
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/><br/>Docker</td>
     <td><img src="https://cdn.simpleicons.org/linux/FCC624" height="40"/><br/>Linux</td>
   </tr>
