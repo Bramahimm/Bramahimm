@@ -69,7 +69,7 @@
 <a href="https://instagram.com/bramahimm" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
 </a>
-  <a href="https://linkedin.com/in/bramahimm" target="_blank">
+  <a href="https://linkedin.com/in/bramahimsa28" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
 </p>
