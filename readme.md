@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚁🚁 My Stack
 
 ### 🖥️ Frontend
 <table align="center">
@@ -16,8 +16,10 @@
     <td><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/><br/>TypeScript</td>
     <td><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40"/><br/>TailwindCSS</td>
     <td><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/><br/>Bootstrap</td>
+    <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/><br/>Laravel</td>
   </tr>
 </table>
+
 
 ### 🧠 Backend / Fullstack
 <table align="center">
