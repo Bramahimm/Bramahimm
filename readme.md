@@ -40,7 +40,7 @@
   <tr>
     <td><img src="https://cdn.simpleicons.org/git/F05032" height="40"/><br/>Git</td>
     <td><img src="https://cdn.simpleicons.org/github/white" height="40"/><br/>GitHub</td>
-    <td><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40"/><br/>VS Code</td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" height="40" /><br/>VS Code</td>
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="40"/><br/>Docker</td>
     <td><img src="https://cdn.simpleicons.org/linux/FCC624" height="40"/><br/>Linux</td>
   </tr>
