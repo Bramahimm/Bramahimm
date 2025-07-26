@@ -5,19 +5,17 @@
   <img src = "gambar3.png" alt="Gambar" height = "200" width = "200"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bramahimm/bramahimm/main/banner.svg" alt="Vrim Banner" />
-</p>
-
 
 ## 🚁 Tech Stack
 
 ###  Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ### 🧠 Backstage / Fullstack
