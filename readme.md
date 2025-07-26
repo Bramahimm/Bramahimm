@@ -66,10 +66,9 @@
 ## 🌐 Stay in Touch
 
 <p align="center">
-  <a href="mailto:vrim.dev@proton.me">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/bramahimm" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram" />
+</a>
   <a href="https://linkedin.com/in/bramahimm" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
