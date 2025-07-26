@@ -7,7 +7,7 @@
 
 ## 🚁🚁 My Stack
 
-### 🖥️ Frontend
+### 🖥️ OnStage
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/astro/white" height="40"/><br/>Astro</td>
@@ -22,7 +22,7 @@
 
 
 
-### 🧠 Backend / Fullstack
+### 🧠 BackStage
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/><br/>React</td>
