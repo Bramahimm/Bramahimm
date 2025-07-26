@@ -1,7 +1,7 @@
-<span align="center">
-  <img src="gambar3.png" alt="Gambar Profil" height="180"/><br>
+<div align="center">
+  <img src="gambar3.png" alt="Gambar Profil" height="180"/>
   <h2>🧑‍💻 Bram wannabe — Fullstack Developer & System Explorer</h2>
-</span>
+</div>
 
 
 ## 🚁🚁 My Stack
