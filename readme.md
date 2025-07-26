@@ -29,7 +29,7 @@
     <td><img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/><br/>Golang</td>
     <td><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/>Python</td>
     <td><img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40"/><br/>Spring Boot</td>
-    <td><img src="https://cdn.simpleicons.org/java" height="40"/><br/>Java</td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" height="40" /><br/>Java</td>
   </tr>
 </table>
 
