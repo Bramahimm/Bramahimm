@@ -32,8 +32,11 @@
     <td><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/>Python</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" /><br/>Java</td>
     <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/><br/>Laravel</td>
+    <td><img src="https://cdn.simpleicons.org/django/092E20" height="40"/><br/>Django</td>
+    <td><img src="https://cdn.simpleicons.org/flask/000000" height="40"/><br/>Flask</td>
   </tr>
 </table>
+
 
 ---
 
