@@ -8,17 +8,16 @@
 ## 🚁🚁 My Stack
 
 ### 🖥️ Frontend
-<table align="center">
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/astro/white" height="40"/><br/>Astro</td>
-    <td><img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/><br/>HTML5</td>
-    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/><br/>JavaScript</td>
-    <td><img src="https://cdn.simpleicons.org/typescript/3178C6" height="40"/><br/>TypeScript</td>
-    <td><img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40"/><br/>TailwindCSS</td>
-    <td><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40"/><br/>Bootstrap</td>
-    <td><img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/><br/>Laravel</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/astro/white" height="40" title="Astro"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40" title="TailwindCSS"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" title="Bootstrap"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" title="Laravel"/>
+</p>
+
 
 
 ### 🧠 Backend / Fullstack
