@@ -18,15 +18,18 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🧠 Backstage / Fullstack
+### ❄️ Backstage
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 </p>
 
----
 
 ## 🔧 System & Collaboration Tools
 <p align="center">
@@ -36,7 +39,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
----
+
 
 ## 🖥️ Dev Environment
 <p align="center">
@@ -45,7 +48,7 @@
   <img src="https://img.shields.io/badge/Backup%20Strategy-ff9900?style=flat" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -61,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=tokyonight" />
 </p>
 
----
+
 
 <div>
   <h2>Stay in touch😜🤙</h2>
