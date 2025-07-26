@@ -67,12 +67,13 @@
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Get Touch
 
-<table align="center">
-  <tr>
-    <td><a href="mailto:vrim.dev@proton.me"><img src="https://cdn.simpleicons.org/gmail/D14836" height="32"/></a></td>
-    <td><a href="https://linkedin.com/in/bramahimsa28"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32"/></a></td>
-    <td><a href="https://instagram.com/bramahimm"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="32"/></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:vrim.dev@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bramahimm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
