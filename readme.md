@@ -23,7 +23,7 @@
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/><br/>React</td>
-    <td><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40"/><br/>Next.js</td>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs/white" height="40"/><br/>Next.js</td>
     <td><img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40"/><br/>NestJS</td>
     <td><img src="https://cdn.simpleicons.org/node.js/339933" height="40"/><br/>Node.js</td>
     <td><img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/><br/>Golang</td>
