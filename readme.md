@@ -3,6 +3,7 @@
   <h2>🧑‍💻 Bram wannabe — Fullstack Developer & System Explorer</h2>
 </div>
 
+---
 
 ## 🚁🚁 My Stack
 
