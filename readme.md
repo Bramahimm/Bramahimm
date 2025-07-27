@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=onedark&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&theme=onedark&cache_seconds=60" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=bramahimm&theme=onedark" />
   <br/>
