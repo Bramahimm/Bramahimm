@@ -1,13 +1,13 @@
 <div align="center">
   <img src="gambar3.png" alt="Gambar Profil" height="180"/>
-  <h2>🧑‍💻 Bram wannabe — Fullstack Developer & System Explorer</h2>
+  <h2>😎 Bram wannabe — Fullstack Developer & System Explorer😎</h2>
 </div>
 
 ---
 
 ## 🚁🚁 My Stack
 
-### 🖥️ OnStage
+### 🤤 OnStage
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/astro/white" height="40"/><br/>Astro</td>
@@ -22,7 +22,7 @@
 ---
 
 
-### 🧠 BackStage
+### 😤 BackStage
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/><br/>React</td>
