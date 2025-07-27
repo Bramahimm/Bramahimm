@@ -41,7 +41,7 @@
 
 ---
 
-## 🛠️ Dev & Collaboration
+## 😬 Dev & Collaboration
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/git/F05032" height="40"/><br/>Git</td>
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🤔 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&theme=onedark&cache_seconds=86400" />
@@ -70,7 +70,7 @@
 ---
 
 
-## 🌐 Stay in Touch
+## 😏 Stay in Touch
 
 <p align="center">
 <a href="https://instagram.com/bramahimm" target="_blank">
