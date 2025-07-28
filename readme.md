@@ -61,9 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&theme=onedark&cache_seconds=86400" />
   <br/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=bramahimm&theme=onedark" />
-  <br/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=onedark&cache_seconds=86400" />
 </p>
 
