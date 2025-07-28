@@ -58,7 +58,7 @@
 ## 🤔 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&theme=dark&title_color=FF3C3C&text_color=FFAAAA&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&title_color=FF0000&text_color=FF5555&bg_color=000000&border_color=FF0000" />
   <br/>
   <br/>
  <img src="https://readme-streak-stats.vercel.app?user=bramahimm&theme=tokyonight&ring=FF0000&fire=FF4500&currStreakLabel=FF3C3C&sideNums=FF6666&sideLabels=FF4D4D&dates=FF5E5E&background=0D1117" />
