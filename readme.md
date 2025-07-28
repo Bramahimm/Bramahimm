@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&title_color=FF0000&text_color=FF5555&bg_color=000000&border_color=FF0000" />
   <br/>
   <br/>
- <img src="https://readme-streak-stats.vercel.app?user=bramahimm&theme=tokyonight&ring=FF0000&fire=FF4500&currStreakLabel=FF3C3C&sideNums=FF6666&sideLabels=FF4D4D&dates=FF5E5E&background=0D1117" />
+ <img src="https://readme-streak-stats.vercel.app?user=bramahimm&theme=tokyonight&ring=00FF5F&fire=00FF7F&currStreakLabel=00FF5F&sideNums=00FF99&sideLabels=00FF7F&dates=66FFAA&background=0D1117&border=00FF5F" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&title_color=00FF5F&text_color=A0FFA0&icon_color=00FF7F&bg_color=0D1117&border_color=00FF5F" />
