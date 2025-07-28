@@ -64,7 +64,7 @@
  <img src="https://readme-streak-stats.vercel.app?user=bramahimm&theme=tokyonight&ring=FF0000&fire=FF4500&currStreakLabel=FF3C3C&sideNums=FF6666&sideLabels=FF4D4D&dates=FF5E5E&background=0D1117" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=onedark&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bramahimm&show_icons=true&theme=dark&title_color=FF3C3C&text_color=FFAAAA&icon_color=FF5555&bg_color=0D1117&border_color=FF3C3C" />
 </p>
 
 ---
