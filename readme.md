@@ -42,7 +42,7 @@
 
 ---
 
-## 😬 Dev & Collaboration
+## 😬 Dev Tools
 <table align="center">
   <tr>
     <td><img src="https://cdn.simpleicons.org/git/F05032" height="40"/><br/>Git</td>
