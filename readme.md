@@ -4,7 +4,6 @@
 
 <h3 align="center">😎 Bram wannabe — Fullstack Developer & System Explorer 😎</h2>
 
----
 
 # 🚁🚁 My Stack
 
