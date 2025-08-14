@@ -2,7 +2,7 @@
   <img src="gambar3.png" alt="Gambar Profil" height="180"/>
 </p>
 
-<h3 align="center">😎 Bram wannabe — Fullstack Developer & System Explorer 😎</h2>
+<h3 align="center">😎 Bram wannabe — Fullstack Developer & Pilot 😎</h2>
 
 ---
 
