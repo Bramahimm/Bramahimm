@@ -56,7 +56,7 @@
 
 ---
 
-## 🤔 GitHub Stats
+## 🤔 GitHub's Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramahimm&layout=compact&title_color=FF00CC&text_color=00FFFF&bg_color=0D1117&border_color=FF00CC" />
