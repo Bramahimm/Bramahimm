@@ -6,7 +6,7 @@
 
 ---
 
-# 🚁🚁 My Stackk
+# 🚁🚁 My Stack
 
 ### 🤤 OnStage
 <table align="center">
